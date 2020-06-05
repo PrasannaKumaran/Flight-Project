@@ -1,7 +1,7 @@
 # Flight-Project
 Machine Learning for Flight Delay Prediction
 
-Introduction
+Introduction : 
 
 Thousands of passengers commute everyday by flight. In the modern world air traffic has become
 very common due to the increase in the number of passengers. In this fast moving world time is
